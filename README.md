@@ -1,5 +1,9 @@
 # SRE Books EPUB
 
+> Read the official Google SRE books comfortably offline on an e-reader.
+
+**[Download the latest EPUBs](https://github.com/s3onghyun/sre-books-epub/releases/latest)** · verify the files with `SHA256SUMS` in that release.
+
 Unofficial, non-commercial EPUB conversions of the official Google SRE books:
 
 - *Site Reliability Engineering*
